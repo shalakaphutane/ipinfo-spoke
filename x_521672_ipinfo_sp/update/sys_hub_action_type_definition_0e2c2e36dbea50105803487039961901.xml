@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>output</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>output</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-14 15:22:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e2c2e36dbea50105803487039961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>output</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPInfo Spoke" source="x_521672_ipinfo_sp">d41b02fedb6a5010580348703996190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">d41b02fedb6a5010580348703996190d</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_0e2c2e36dbea50105803487039961901</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-14 15:22:02</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e2c2e36dbea50105803487039961901"/>
+    <sys_variable_value action="delete_multiple" query="document_key=0e2c2e36dbea50105803487039961901"/>
+</record_update>
